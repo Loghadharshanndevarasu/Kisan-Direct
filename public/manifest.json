@@ -1,0 +1,40 @@
+{
+  "id": "/",
+  "name": "KisanDirect - Farm to Kitchen Loose Produce",
+  "short_name": "KisanDirect",
+  "description": "Buy 100% loose, unbranded dal, pulses, and grains directly from nearby Indian farmers with GPS route tracking, transparent pricing, and 3-minute doorstep inspection.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0c0a09",
+  "theme_color": "#065f46",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["shopping", "food", "lifestyle"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Marketplace",
+      "url": "/?tab=marketplace",
+      "description": "Browse loose farm grains and pulses"
+    },
+    {
+      "name": "Live Dispatch",
+      "url": "/?tab=tracking",
+      "description": "Track active farm delivery route"
+    }
+  ]
+}

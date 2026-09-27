@@ -1,0 +1,6 @@
+{
+  "name": "KisanDirect - Pure Loose Farm Produce Marketplace",
+  "description": "Direct farm-to-consumer unbranded loose produce marketplace with regional warehouse sourcing, farm provenance transparency AI, dual-tier revenue models, automated tax reports, and macro agri-economic policy analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
